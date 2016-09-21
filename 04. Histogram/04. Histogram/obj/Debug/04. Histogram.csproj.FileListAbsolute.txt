@@ -1,0 +1,6 @@
+C:\Users\Bistra\Desktop\04. Histogram\04. Histogram\bin\Debug\_04.Histogram.exe.config
+C:\Users\Bistra\Desktop\04. Histogram\04. Histogram\bin\Debug\_04.Histogram.exe
+C:\Users\Bistra\Desktop\04. Histogram\04. Histogram\bin\Debug\_04.Histogram.pdb
+C:\Users\Bistra\Desktop\04. Histogram\04. Histogram\obj\Debug\04. Histogram.csprojResolveAssemblyReference.cache
+C:\Users\Bistra\Desktop\04. Histogram\04. Histogram\obj\Debug\_04.Histogram.exe
+C:\Users\Bistra\Desktop\04. Histogram\04. Histogram\obj\Debug\_04.Histogram.pdb
