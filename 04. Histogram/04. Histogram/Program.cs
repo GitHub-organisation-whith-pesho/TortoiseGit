@@ -10,8 +10,15 @@ namespace _04.Histogram
     {
         static void Main(string[] args)
         {
+
             int n = int.Parse(Console.ReadLine());
-            
+
+            decimal p1 = 0;
+            decimal p2 = 0;
+            decimal p3 = 0;
+            decimal p4 = 0;
+            decimal p5 = 0;
+
             
             for (int i = 0; i < n; i++)
             {
