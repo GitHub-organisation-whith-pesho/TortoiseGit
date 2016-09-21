@@ -10,7 +10,7 @@ namespace _04.Histogram
     {
         static void Main(string[] args)
         {
-            int n = int.Parse(Console.ReadLine());
+           
             decimal p1 = 0;
             decimal p2 = 0;
             decimal p3 = 0;
